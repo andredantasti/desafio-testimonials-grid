@@ -26,12 +26,12 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 
 ### Screenshot
 
-![](./images/animacaocard.gif)
+![](./images/animacao.gif)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://andredantasti.github.io/desafio-testimonials-grid/)
 
 ## My process
 
@@ -40,17 +40,17 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid - Autofill
+- CSS Grid
 - Media Querye
 
 ### O que Aprendi
 
-- Estamos aprendendo CSS, nesse projeto comecei utilizando apenas display flex para organizar o visual da página, porém depois tentei utilizar display GRID, já que foi um dos últimos assuntos estudados de CSS do curso de frontend que estou fazendo. Tivemos um pouco de dificuldade, mas nada que com mais estudo ou prática não podemos melhorar. 
+- Nesse projeto utilizamos display flex e GRID para organizar o visual da página. Tivemos um pouco de dificuldade, mas nada que com mais estudo ou prática não podemos melhorar. 
 
 ### Desenvolvimento Contínuo
 
 Desejo continuar melhorar na questão de espaçamentos do CSS, melhorar e estudar mais sobre display flex e display Grid.
-Continuar e melhorar na questão de responsividade, deixando os projetos com maior compatibilidade em diversos instrumentos de acesso.
+Continuar e melhorar na questão de responsividade, deixando os projetos com maior compatibilidade em diversos dispositivos.
 
 
 ### Useful resources
