@@ -16,8 +16,7 @@ body{
                          "testemunho-3 testemunho-4 testemunho-4 testemunho-5";
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    justify-content: center;
-    
+    justify-content: center;    
 
 }
 

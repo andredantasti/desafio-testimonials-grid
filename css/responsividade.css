@@ -1,0 +1,60 @@
+@media(max-width:768px){
+   body{
+    height: auto;
+    margin: 32px;
+    width: auto;
+    
+   }
+   
+    .container{
+       display: flex;   
+       flex-direction: column;
+       gap: 32px
+       
+    }
+
+    .testemunho-1{
+        width: 100%;
+    } 
+    .testemunho-2{
+        width: 100%;
+        
+    }
+    .testemunho-3{
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .testemunho-4{
+        width: 100%;
+        margin-top: 0;
+    }
+
+   .testemunho-5{
+    width: 100%;
+   }
+
+   .titulo{
+    color: hsl(214, 17%, 92%);
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 21px 0px;
+
+}
+.titulo2{
+    color: hsl(217, 19%, 35%);
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 21px 0px;
+}
+
+.nomes{
+    font-size: 0.8rem;
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+
+.descricao{
+    font-size: 0.7rem;
+}
+}
