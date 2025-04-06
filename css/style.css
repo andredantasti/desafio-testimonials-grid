@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+}
+
+.container{
+    display: grid;
+    grid-template-areas: "testemunho-1 testemunho-1 testemunho-2 testemunho-5"
+                         "testemunho-3 testemunho-4 testemunho-4 testemunho-5";
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+
+}
+
+.testemunho-1{
+    grid-area: testemunho-1;
+}
+
+.testemunho-2{
+    grid-area: testemunho-2;
+}
+
+.testemunho-3{
+    grid-area: testemunho-3;
+}
+
+.testemunho-4{
+    grid-area: testemunho-4;
+}
+
+.testemunho-5{
+    grid-area: testemunho-5;
+}
